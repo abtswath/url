@@ -5,6 +5,11 @@
     "require": {
         "php": ">=7.2"
     },
+    "keywords": [
+        "url",
+        "url parse",
+        "URLSearchParam"
+    ],
     "version": "1.0.0",
     "license": "MIT",
     "autoload": {
