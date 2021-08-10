@@ -1,9 +1,9 @@
 <?php
 
-namespace Great\Url\Tests;
+namespace Tests;
 
-use Great\Url\URL;
-use Great\Url\URLSearchParams;
+use Url\URL;
+use Url\URLSearchParams;
 use PHPUnit\Framework\TestCase;
 
 class URLTest extends TestCase {

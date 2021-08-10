@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Great\Url\Tests;
+namespace Tests;
 
-use Great\Url\Parser;
+use Url\Parser;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 

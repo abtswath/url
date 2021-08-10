@@ -1,6 +1,6 @@
 <?php
 
-namespace Great\Url;
+namespace Url;
 
 interface ParserInterface {
 

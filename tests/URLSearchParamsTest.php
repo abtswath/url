@@ -1,9 +1,9 @@
 <?php
 
-namespace Great\Url\Tests;
+namespace Tests;
 
 use ArrayIterator;
-use Great\Url\URLSearchParams;
+use Url\URLSearchParams;
 use PHPUnit\Framework\TestCase;
 
 class URLSearchParamsTest extends TestCase {

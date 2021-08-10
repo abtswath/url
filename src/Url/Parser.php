@@ -1,7 +1,6 @@
 <?php
 
-namespace Great\Url;
-
+namespace Url;
 
 use InvalidArgumentException;
 
